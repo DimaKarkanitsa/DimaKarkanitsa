@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/dima-karkanitsa/**
 
-<h3 align="left">Connect with me:</h3>
 <a href='https://www.linkedin.com/in/dima-karkanitsa/' target='blank'></a>
 <p align="left">
 </p>
