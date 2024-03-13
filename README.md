@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BusinessClub WebSite](https://github.com/DimaKarkanitsa/st2)
 
-- 🌱 I’m currently learning **Databases**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dima-karkanitsa/**
 
